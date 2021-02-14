@@ -1,3 +1,6 @@
+// C Program to Find the Frequency of Characters in a String// 
+
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
